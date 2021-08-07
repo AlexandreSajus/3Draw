@@ -1,10 +1,11 @@
 # 3Draw
 
-This is a Processing project in which calculates the position of a colorful object by using the data of 2 webcams (which names can be define in the config.txt file), and displays it.
+This Processing software allows you to draw anything in 3D using a pen, two webcams and Unity.
 The user can draw lines, change the color, the weight and the drawing mode.
-The program can communicate with other porgrams (like Unity for instance) if they send a "get" request through the right port.
 
-Here are some images from a french presentation of the project made in 2017.
+Made by Fabien Roger, Eric Nguyen and Alexandre Sajus
+
+Here are some images from a french presentation of our project made in 2017.
 
 ![](images/pres.png?raw=true "Presentation")
 
@@ -13,19 +14,19 @@ Here are some images from a french presentation of the project made in 2017.
 ![](images/howitworks.png?raw=true "How it works")
 
 
-## Examples
+## Examples of drawings
 
 ![](images/example.png?raw=true "Example 1")
 
 ![](images/video.gif?raw=true "Example 2")
 
-## Me using it in Unity
+## Fabien Roger using it in Unity
 
 ![](images/unity.gif?raw=true "Me")
 
 ## The drawing pen
 
-A pen has been created (not by me) using 3D printing to work with the program.
+The pen has been created using 3D printing.
 
 ![](images/cameraview.png?raw=true "The camera view")
 
